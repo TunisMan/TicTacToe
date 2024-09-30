@@ -166,6 +166,6 @@ public class TicTacToe {
             }
         }
 
-        scanner.close(); // Scanner'ı kapatıyoruz
+        scanner.close(); 
     }
 }
